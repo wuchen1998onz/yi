@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/wuchen1998onz/yi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wuchen1998onz/yi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  面对柔情蜜意的完颜英，他却用一个个“您”婉言谢绝她的抬爱。完颜英说：我不要你尊重我。我要你爱我。
+  周韵饰演的武六诘问他你是活腻了不成。马走日说：我罪该万死，但完颜英是体面人，她不该受这侮辱。
+  洪晃拿着大喇叭追车女儿：我为人师表，桃李满天下。女儿：你偷看我的日记，把喜欢我的男同学都开除了，还骗我说他们是转校。其实我也是骗你的，我讨厌谁，就把谁写上去。
+  马走日：“看见完颜英我就装的不三不四，可是见着武六我就紧张。”女人没有优秀之分，情人眼里才能出西施。
+ 马走日载着吸了大烟意乱情迷的完颜英，穿越外白渡桥去看夜晚硕大的月亮。完颜英说：我上辈子一定是欠了你，你这辈子才会对我那么坏。马走日说：我们上辈子一定是一个人脸上的一对眼睛。一个是左眼，一个是右眼，可就是没有缘分谁也没见过谁。
+ 我和完颜英的关系，要多近有多近，要多远有多远。这就是他们之间的一步之遥。
+ 完颜英在花域选美时说：男人都应该像孩子一样到女人的怀抱里来啊，这样就没有人去打仗了。天真的女人啊。求爱马走日不得，马走日说：我有哪里好，我还是个孩子啊。女人气急败坏，有你这个尺寸的孩子么？因为自认为还是个孩子，所以马走日这个角色在一连串的事件中都保留了生而为人的初心，有部分也是导致他灭亡的原因：要尊严，不苟且，要仗义，不谈过往，不想明天，逃避真情，推脱爱意。我喜欢姜文在电影尚未正式开始前的一段旁白，他自问：我是谁呀？让我回想起了《鬼子来了》。
